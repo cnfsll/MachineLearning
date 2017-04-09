@@ -11,5 +11,5 @@ http://deeplearning.net/tutorial/
 
 vgg16.py:
 利用tensorflow搭建VGGNet16网络结构，并评测其inference耗时和training耗时
-参考：
+参考如下：
 https://github.com/machrisaa/tensorflow-vgg
