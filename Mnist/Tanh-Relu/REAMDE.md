@@ -3,4 +3,4 @@
 mnist_tanh.py:使用tanh激励函数
 mnist_rely.py:使用relu激励函数
 mnist_tanh.png,train_acc_tanh.npy,test_acc_tanh.npy:使用tanh激励函数得到的实验结果
-mnist_relu.png,train_acc_relu.npy,test_acc_relu.npy:
+mnist_relu.png,train_acc_relu.npy,test_acc_relu.npy:使用relu
