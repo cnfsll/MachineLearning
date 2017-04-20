@@ -6,14 +6,6 @@ Created on Thu Apr 20 08:07:17 2017
 @author: minjiang
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 18 18:31:54 2017
-
-@author: minjiang
-"""
-
 from tensorflow.examples.tutorials.mnist import input_data
 import tensorflow as tf
 import matplotlib.pyplot as plt
