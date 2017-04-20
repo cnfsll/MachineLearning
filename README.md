@@ -13,3 +13,5 @@ vgg16.py:
 利用tensorflow搭建VGGNet16网络结构，并评测其inference耗时和training耗时
 参考如下：
 https://github.com/machrisaa/tensorflow-vgg
+
+MNIST/tanh_relu：针对mnist数据集，
