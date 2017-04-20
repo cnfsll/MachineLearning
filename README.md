@@ -14,3 +14,4 @@ vgg16.py:
 参考如下：
 https://github.com/machrisaa/tensorflow-vgg
 
+Mnist/Tanh-Relu/：针对MNIST数据集，比较分别使用tanh和relu激励函数的卷积神经网络的性能。
