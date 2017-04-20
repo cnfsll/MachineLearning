@@ -14,4 +14,3 @@ vgg16.py:
 参考如下：
 https://github.com/machrisaa/tensorflow-vgg
 
-MNIST/tanh_relu：针对mnist数据集，
