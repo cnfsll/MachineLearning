@@ -20,6 +20,8 @@ Mnist/Adam/: 针对MNIST数据集，比较分别使用随机梯度下降法和Ad
 
 Mnist/Dropout/: 针对MNIST数据集，比较分别使用和不使用dropout操作时卷积神经网络的性能。
 
+Mnist/BN/:针对MNIST数据集，比较分别使用和不使用BN操作时神经网络的性能。
+
 Tree_Titanic：针对titanic数据集，分别使用决策树，随机森林，梯度提升树对泰坦尼克号乘客是否生还进行预测，并对三种算法进行了特性选取的探究。
 
 svm_gridsearch.py: 针对手写体识别例子，使用支持向量机模型来分类，采用高斯核。并进行超参数的搜索（gamma, C），采用网格化搜索。
