@@ -27,3 +27,5 @@ Tree_Titanic：针对titanic数据集，分别使用决策树，随机森林，�
 svm_gridsearch.py: 针对手写体识别例子，使用支持向量机模型来分类，采用高斯核。并进行超参数的搜索（gamma, C），采用网格化搜索。
 
 SNN_CNN_MNIST.py：针对手写体识别例子，采用卷积神经网络，比较分别使用relu和selu激励函数的效果。
+
+WGan_Mnist.py：针对手写体识别例子，实现WGan_gp生成对抗网络。
