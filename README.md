@@ -28,4 +28,4 @@ svm_gridsearch.py: 针对手写体识别例子，使用支持向量机模型来�
 
 SNN_CNN_MNIST.py：针对手写体识别例子，采用卷积神经网络，比较分别使用relu和selu激励函数的效果。
 
-WGan_Mnist.py：针对手写体识别例子，实现WGan_gp生成对抗网络。
+WGan_Mnist.py：针对手写体识别例子，实现WGan_gp生成对抗网络。训练完之后可以在tensorboard中观察结果。
